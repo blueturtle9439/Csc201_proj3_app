@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Csc201_proj3_app</string>
+
+    <string name="q1">Is Prof. Tanes Kanchanawanchai great teacher?</string>
+    <string name="q1o1">yes</string>
+    <string name="q1o2">no</string>
+    <string name="q1o3">I have no idea</string>
+
+    <string name="q2">Did you like the csc201?</string>
+    <string name="q2o1">yes</string>
+    <string name="q2o2">no</string>
+    <string name="q2o3">I have no idea</string>
+
+    <string name="q3">Are you going to take csc202?</string>
+    <string name="q3o1">yes</string>
+    <string name="q3o2">no</string>
+    <string name="q3o3">I have no idea</string>
+
+
+</resources>
